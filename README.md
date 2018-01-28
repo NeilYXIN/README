@@ -1,4 +1,2 @@
 # hello-world
-first repository
-
-This is for learning how Github works.
+This Github is made to upload my projects and works, or maybe some useful things as well.
