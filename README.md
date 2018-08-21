@@ -1,5 +1,6 @@
 # hello-world
-This Github is made to upload my projects and works, or maybe some useful things as well.
-All codes are for reference only, and especially the codes written in UESTC may not be written in a good style due to limited time and endless dues and inexperienced. I'll try to improve them as possible.
+This Github is maintained to track my projects and works, maybe some useful things as well.
 
-Personal blog: www.neilyxin.cn was built but doesn't have much contents.
+All codes are for reference only, especially those written in UESTC, might not be in a good style due to limited time.
+
+Blog: www.neilyxin.cn
