@@ -1,4 +1,4 @@
-# hello-world
+# Greetings.
 This GitHub is maintained for my projects.
 
 All resources are for reference only.
