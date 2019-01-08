@@ -1,6 +1,6 @@
 # hello-world
-This Github is maintained to track my projects and works, maybe some useful things as well.
+This GitHub is maintained for my projects.
 
-All codes are for reference only, especially those written in UESTC, might not be in a good style due to limited time.
+All resources are for reference only.
 
-Blog: www.neilyxin.cn
+Blog: blog.neilyxin.com
