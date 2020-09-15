@@ -1,6 +1,6 @@
 # Greetings
 I use GitHub to archive for my coursework and research projects.
-Currently most of my repositories have been set as private because there are students trying to use my work as their course project.
+Currently most of my repositories are set as private because some students tried to plagiarize my course projects.
 
 All resources are for reference only. Copy and past at your own risk.
 
